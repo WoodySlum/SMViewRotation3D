@@ -15,7 +15,7 @@ This code allows you to give perspective to any UIView based objects. You can ap
 ###How to use it
 
 First, include the following frameworks : QuartzCore and MapKit
-Then include :
+Then include : 
 
 ``` objective-c
 #import "SMViewRotation3D.h"

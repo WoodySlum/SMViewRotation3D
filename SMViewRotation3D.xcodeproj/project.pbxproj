@@ -20,6 +20,7 @@
 		961122181642DCDF00022E1F /* orangeButtonHighlight.png in Resources */ = {isa = PBXBuildFile; fileRef = 961122101642DCDF00022E1F /* orangeButtonHighlight.png */; };
 		961122191642DCDF00022E1F /* orangeButtonHighlight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 961122111642DCDF00022E1F /* orangeButtonHighlight@2x.png */; };
 		961122311642F80900022E1F /* SMViewRotation3D.m in Sources */ = {isa = PBXBuildFile; fileRef = 961122301642F80900022E1F /* SMViewRotation3D.m */; };
+		961C52CD16434A8B000671A8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 961C52CC16434A8B000671A8 /* README.md */; };
 		962013FC163D646D00E8AA3B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 962013FB163D646D00E8AA3B /* UIKit.framework */; };
 		962013FE163D646D00E8AA3B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 962013FD163D646D00E8AA3B /* Foundation.framework */; };
 		96201400163D646D00E8AA3B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 962013FF163D646D00E8AA3B /* CoreGraphics.framework */; };
@@ -67,6 +68,7 @@
 		961122111642DCDF00022E1F /* orangeButtonHighlight@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "orangeButtonHighlight@2x.png"; sourceTree = "<group>"; };
 		9611222F1642F80900022E1F /* SMViewRotation3D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMViewRotation3D.h; sourceTree = "<group>"; };
 		961122301642F80900022E1F /* SMViewRotation3D.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMViewRotation3D.m; sourceTree = "<group>"; };
+		961C52CC16434A8B000671A8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
 		962013F7163D646D00E8AA3B /* SMViewRotation3D.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SMViewRotation3D.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		962013FB163D646D00E8AA3B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		962013FD163D646D00E8AA3B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -193,6 +195,7 @@
 		96201401163D646D00E8AA3B /* Project */ = {
 			isa = PBXGroup;
 			children = (
+				961C52CC16434A8B000671A8 /* README.md */,
 				9611222E1642F80900022E1F /* SMViewRotation3D */,
 				961121FF1642D42500022E1F /* Images */,
 				9620140A163D646E00E8AA3B /* AppDelegate.h */,
@@ -330,6 +333,7 @@
 				961122171642DCDF00022E1F /* orangeButton@2x.png in Resources */,
 				961122181642DCDF00022E1F /* orangeButtonHighlight.png in Resources */,
 				961122191642DCDF00022E1F /* orangeButtonHighlight@2x.png in Resources */,
+				961C52CD16434A8B000671A8 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
